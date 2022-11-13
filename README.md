@@ -3,6 +3,8 @@ Simple usage of [Cat Fact API](https://catfact.ninja/fact) where the data got fe
 
 # Visuals
 
+![2022-11-13_17-02](https://user-images.githubusercontent.com/105199716/201531884-aeb73e61-cd68-4bb8-87fd-4bf6df31ca8b.png)
+
 
 
 Photo by <a href="https://unsplash.com/@madhatterzone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Manja Vitolic</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
