@@ -1,3 +1,12 @@
+# Generate cat fact
+Simple usage of [Cat Fact API](https://catfact.ninja/fact) where the data got fetched using Axios library and a cat fact is being displayed after pressing a button.
+
+# Visuals
+
+
+
+Photo by <a href="https://unsplash.com/@madhatterzone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Manja Vitolic</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
